@@ -45,11 +45,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>First_Contact__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Latest_Contact__c</field>
+                <field>Super_Important_Account_Info__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
