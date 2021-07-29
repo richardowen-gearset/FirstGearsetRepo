@@ -102,6 +102,16 @@
     </applicationVisibilities>
     <custom>false</custom>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.Discount_Percentage__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Discount_Rate__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Account.First_Contact__c</field>
         <readable>true</readable>
