@@ -43,8 +43,11 @@
                 <behavior>Edit</behavior>
                 <field>NumberOfEmployees</field>
             </layoutItems>
-        </layoutColumns>
-        <layoutColumns>
+
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Super_Important_Account_Info__c</field>
+            </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
                 <field>Active__c</field>

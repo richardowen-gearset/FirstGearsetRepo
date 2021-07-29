@@ -27,8 +27,11 @@
                 <behavior>Edit</behavior>
                 <field>Site</field>
             </layoutItems>
-        </layoutColumns>
-        <layoutColumns>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Super_Important_Account_Info__c</field>
+            </layoutItems>
+
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Rating</field>
